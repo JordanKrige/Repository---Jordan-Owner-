@@ -54,6 +54,7 @@ fit.negexpS.MLE <- function(dat,par){
     -sum(dnorm(dat$NDVI, pred.negexpS(theta, dat$age), 0.001, log=TRUE), na.rm=TRUE) #Note that I added a standard deviation of 0.001 (in reality we should get that from the MODIS data)
   }
   
+  
   ## fit by numerical optimization
   optim(par, fn = lnL.negexpS, dat=dat, control = list(maxit = 1000))
 }
