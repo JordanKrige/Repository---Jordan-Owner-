@@ -99,7 +99,7 @@ Lots more parameters...
 
 Q2: How do the estimates for the common parameters compare?
 
->*Answer 2: There are three common parameters, namely alpha, gamma and lambda. In the first model, a one unit increase in alpha leads to a 0.25107 increase in NDVI, holding all other variables constant. This is a bigger change than that in the second model where a increase of one unit in alpha leads to a 0.207522 change in NDVI. Gamma in the first model has a smaller effect for a one unit change than gamma in model two. In model one, a one unit change in gamma leads to a 0.32371 change in NDVI holding all other variables constant, while a one unit change in gamma in model two leads to a 0.364746 change in NDVI, holding all other variables constant. Lastly, a one unit increase in lambda leads to a 1.17687 change in NDVI for model one, but only a 0.989154 change in NDVI for model two. *
+>*Answer 2: There are three common parameters between model 1 and 2, namely alpha, gamma and lambda. In the first model, a one unit increase in alpha leads to a 0.25107 increase in NDVI, holding all other variables constant. This is a bigger change than that in the second model where a increase of one unit in alpha leads to a 0.207522 change in NDVI. Gamma in the first model has a smaller effect for a one unit change than gamma in model two. In model one, a one unit change in gamma leads to a 0.32371 change in NDVI holding all other variables constant, while a one unit change in gamma in model two leads to a 0.364746 change in NDVI, holding all other variables constant. Lastly, a one unit increase in lambda leads to a 1.17687 change in NDVI for model one, but only a 0.989154 change in NDVI for model two. *
 
 <br>
 
